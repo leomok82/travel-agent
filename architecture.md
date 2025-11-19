@@ -1,3 +1,4 @@
+```
 flowchart LR
     A[JS UI] -->|Get input| B{Conversation agent Supervisor}
     B --> |More information| A                                         
@@ -14,6 +15,6 @@ flowchart LR
     F --> B
     B --> F
     L --> B
-
+```
 
 ![Architecture Flowchart](misc/flow.png)
