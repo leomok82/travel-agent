@@ -18,3 +18,11 @@ flowchart LR
 ```
 
 ![Architecture Flowchart](misc/flow.png)
+
+
+Important features
+- Location selection
+- how flexible
+- budget planning
+- personal preferences (adventurous, driving,  etc)
+- food 
